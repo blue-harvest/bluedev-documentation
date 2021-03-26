@@ -18,7 +18,7 @@ You can see the available bedrocks [here](AVAILABLE_BEDROCKS.md)
     git remote add [REMOTE 1] [BEDROCK URL 1]
     git remote add [REMOTE 2] [BEDROCK URL 2]
     # Example:
-    git remote add rest_bedrock https://github.com/blue-harvest-bluedev/java-sb-base-bedrock.git
+    git remote add rest_bedrock https://github.com/blue-harvest-bluedev/java-sb-rest-bedrock.git
     ```
 
 4. Verify that the new remotes have been added.
